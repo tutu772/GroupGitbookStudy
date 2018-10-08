@@ -1,10 +1,10 @@
-# GroupGitbookStudy
+# README
 
-# BS JJang!!
+## GroupGitbookStudy
 
-## BK JJang!!
+## BS JJang!!
 
-# BS SB IS GOD
+### BK JJang!!
 
-
+## BS SB IS GOD
 
